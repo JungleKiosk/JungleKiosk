@@ -1,6 +1,6 @@
 <div align="center">
   
-![alt text](https://github.com/JungleKiosk/JungleKiosk/blob/main/banner_in.png)
+![alt text](https://github.com/JungleKiosk/JungleKiosk/blob/main/banner_jk.png)
 </div>
 <img aling="right" src="https://visitor-badge.laobi.icu/badge?page_id=JungleKiosk.JunglrKiosk" />
 <h1 align="center">
