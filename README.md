@@ -1,5 +1,4 @@
 <img aling="right" src="https://visitor-badge.laobi.icu/badge?page_id=JungleKiosk.JunglrKiosk" />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Rigtheus&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=🌈Hello+Nice+People!🦆;+I'm+Fra!;"/>
 <h1/>
@@ -15,7 +14,6 @@ UN 2030 Agenda for Sustainable Development Goals.</h3>
 </div>
 <hr/>
 <h2 align="center">Languages-FrameWorks-Tools 💾</h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,r"> <br/>
