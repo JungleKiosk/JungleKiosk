@@ -2,8 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Rigtheus&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌈Hello+Nice+People!🦆;+I'm+Fra!;"/>
 <h1/>
-
-
+![logo](https://github.com/JungleKiosk/JungleKiosk/blob/main/happy_earth.gif)
 
 <h2 align="center">I have a passion for technology.</h2>
 
