@@ -24,8 +24,9 @@ UN 2030 Agenda for Sustainable Development Goals.</h3>
 <h2 align="center">💾 Languages-FrameWorks-Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github"><br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,r"> <br/>
-    <img src="https://skillicons.dev/icons?i=vuejs,sass,bootstrap,vscode,git">
+    <img src="https://skillicons.dev/icons?i=vuejs,sass,bootstrap">
   <a/>
 </div>
 
