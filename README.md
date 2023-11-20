@@ -4,7 +4,7 @@
 <h1/>
 <div align="center">
   
-![alt text](https://github.com/JungleKiosk/JungleKiosk/blob/main/happy_earth.gif)
+![alt text](https://github.com/JungleKiosk/JungleKiosk/blob/main/line.png)
 </div>
 
 <h2 align="center">I have a passion for technology 🤖</h2>
