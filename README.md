@@ -17,11 +17,6 @@
 The study program contribute to the pursuit of the
 UN 2030 Agenda for Sustainable Development Goals.</h3>
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Rigtheus&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=_+Hello!;_+I'm+Fra!;_+Welcome+to+My+GitHub!"/>
-<h1/><h1 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Rigtheus&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=_+Hello!;_+I'm+Fra!;_+Welcome+to+My+GitHub!"/>
-<h1/>
 <br/>
 <div align="center" >
 <h2> ⛵ I'm currently learning Web Development</h2>
