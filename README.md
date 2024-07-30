@@ -14,7 +14,8 @@
 <h3 align="center">🌳🛰️ I have a master's degree in Planning and Management of Agro-Territorial, Forest and Landscape <br/><br/>
 The study program contribute to the pursuit of the
 UN 2030 Agenda for Sustainable Development Goals</h3>
-<p align="center">Click on the link below and take a look at my projects:</p><small>display the link on another page: [Ctrl + click]</small>
+<p align="center">Click on the link below and take a look at my projects:</p>
+<small align="center">display the link on another page: [Ctrl + click]</small>
 <h1 align="center"><a href="https://junglekiosk.github.io/myRepository/" target="_blank">☁️ myRepo ☁️<a/></h2>
 <h2 align="center">🐍 🐋 🐘</h2>
 <h2 align="center">⛩️ my Stack⚡</h2>
