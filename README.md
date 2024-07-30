@@ -11,18 +11,11 @@
 ![alt text](https://github.com/JungleKiosk/JungleKiosk/blob/main/line.png)
 </div>
 
-<h2 align="center">I have a passion for technology 🤖</h2>
-
-<h3 align="center">I have a master's degree in Planning and Management of Agro-Territorial, Forest and Landscape.🌳🦊 <br/><br/>
+<h3 align="center">I have a master's degree in Planning and Management of Agro-Territorial, Forest and Landscape.🌳🛰️ <br/><br/>
 The study program contribute to the pursuit of the
 UN 2030 Agenda for Sustainable Development Goals.</h3>
 
-<br/>
-<div align="center" >
-<h2> ⛵ I'm currently learning Web Development</h2>
-</div>
-
-<h2 align="center">💾 Languages-FrameWorks-Tools</h2>
+<h2 align="center">Languages-FrameWorks-Tools 💾 </h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github"><br/>
