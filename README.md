@@ -15,6 +15,8 @@
 The study program contribute to the pursuit of the
 UN 2030 Agenda for Sustainable Development Goals</h3>
 <p align="center">Click on the link below and take a look at my projects:</p>
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
 <h1 align="center"><a href="https://junglekiosk.github.io/myRepository/" target="_blank">☁️ myRepo ☁️<a/></h2>
 <h2 align="center">🐍 🐋 🐘</h2>
 <h2 align="center">⛩️ my Stack⚡</h2>
