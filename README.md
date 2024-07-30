@@ -22,7 +22,7 @@ UN 2030 Agenda for Sustainable Development Goals.</h3>
     <img src="https://skillicons.dev/icons?i=vscode,github"><br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript"> <br/>
     <img src="https://skillicons.dev/icons?i=python,flask,docker,postgresql"> <br/>
-    <img src="https://skillicons.dev/icons?i=vuejs,vite,sass,bootstrap">
+    <img src="https://skillicons.dev/icons?i=vuejs,vite,leaflet,sass,bootstrap">
   <a/>
 </div>
 
