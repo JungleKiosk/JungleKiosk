@@ -15,7 +15,8 @@
 The study program contribute to the pursuit of the
 UN 2030 Agenda for Sustainable Development Goals.</h3>
 
-<h2 align="center">🐍⛩️ my Stack 🐋🐘</h2>
+<h2 align="center">⛩️ my Stack⚡</h2><br/>
+<h2 align="center">🐍 🐋 🐘</h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github"><br/>
