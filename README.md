@@ -15,12 +15,8 @@
 <h3 align="center">I am a Data Analyst specialized in GIS analysis and Remote Sensing <br/>
 <span>🌳🛰️💻</span></h3>
 
-<p align="center">Click on the link below and take a look at my projects:</p>
-<p align="center">if you want to display the link on another page: [Ctrl + click]</p>
-<h1 align="center"><a href="https://junglekiosk.github.io/myRepository/" target="_blank">☁️ Portfolio ☁️<a/></h2>
-<h2 align="center">🐍 🐋 🐘</h2>
+<h1 align="center"><a href="https://junglekiosk.github.io/aperitool/" target="_blank">Aperitool<a/></h2>
 <h2 align="center">⛩️ my Stack⚡</h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github"><br/>
